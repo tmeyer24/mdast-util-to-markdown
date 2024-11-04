@@ -29,6 +29,7 @@
     "xo": "^0.59.0"
   },
   "exports": "./index.js",
+  "main": "./index.js",
   "files": [
     "lib/",
     "index.d.ts",
